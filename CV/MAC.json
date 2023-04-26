@@ -1,0 +1,998 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Borja",
+      "surnames": "Paz Rodríguez",
+      "title": "Software Engineer & Alien Whisperer",
+      "description": "Hello! I'm Borja, a simple teleco passionate about programming, gadgets, technology, networks, escape rooms... Yes, yes! Escape rooms, you heard right. Thanks to this hobby, which gave me as many headaches as unique moments, I was able to strengthen all the knowledge I acquired during my academic stage and discover many more things that today turn around in my head. It all started with a damn website! From that moment on, interest grew even more within me. How to do something in the best possible way? What is the most appropriate technology? Will I be following the best practices? Would Uncle Bob be proud of me?\n\nMy concerns about knowing are focused on good practices, design patterns, the application of new architectures, process automation, CI / CD, performance improvement, process optimization, learning new programming languages and skills, monitoring, problem solving, use of DDD, etc. I would not be able to choose a specific technology. During my professional stage I have been changing and combining many branches, which is gratifying and serves as an exercise in adapting to change. Despite this, I hold a special affection for technologies such as Java, Spring, JavaScript, Angular, Node.js, Python, Docker, etc. I also usually entertain myself quite a bit by doing tasks typical of a DevOps, always looking for the simplest and most practical way to do things.\n\nI am passionate about being able to dedicate time to small personal projects that can be useful to other people who have the same concerns as I do. For example, practical dotfiles to make the configuration and customization of GNU / Linux-based operating systems easier or a mini tool to manage and configure home servers using Docker, Docker Compose, Make and FZF.\n\nIn 2016 I saw on social networks that Doctor René Heller, an astrophysicist at the Max Planck Institute for Solar System Research, proposed a challenge that consisted of deciphering a supposed alien message. With great curiosity and work I managed to find out what it hid and I became one of the 66 successful crackers of the SETI Decrypt Challenge.",
+      "avatar": {
+        "alt": "2022-12-12 15.21.31.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/a4270367-cb74-475d-8f28-86dbbfa08f60_2022-12-12-15.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Galicia",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://bpaz.dev"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/borjapazr"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/6112286/mr-mars"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/borjapazr"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/borjapazr"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Plexus Tech",
+          "image": {
+            "alt": "logo_cropped.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/fa082cbb-310f-41a8-9fbf-cf55f9a794d3_logo_cropped.png"
+          },
+          "URL": "https://plexus.tech"
+        },
+        "roles": [
+          {
+            "name": "Tech Lead | Software Engineer",
+            "startDate": "2016-11-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Kong",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Serverless",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Spring-Batch",
+                "type": "technology"
+              },
+              {
+                "name": "Swagger",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gradiant",
+          "image": {
+            "alt": "Gradiant_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/a9a0c4f0-6d0b-480c-b70d-74d5b1f470a2_gradiant_logo.png"
+          },
+          "URL": "https://www.gradiant.org/"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2015-09-01",
+            "finishDate": "2016-09-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "D3",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Angular Skeleton",
+          "description": "**🅰️🦸 Production-ready template for Progressive Web Applications implemented with Angular, TailwindCSS, Transloco, ngx-isr, etc.**\n\nThe main goal of this project is to provide a base template for the generation of a production-ready web application made with Angular. The idea is to avoid having to configure all the tools involved in a project every time it is started and thus be able to focus on the definition and implementation of the business logic.\n\n> 📣 This is an opinionated template. The architecture of the code base and the configuration of the different tools used has been based on best practices and personal preferences.",
+          "URL": "https://github.com/borjapazr/angular-skeleton",
+          "image": {
+            "alt": "68747470733a2f2f692e696d6775722e636f6d2f7973614d5678462e706e67.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/fb3829c2-08b3-4fe0-9df9-b7d3cffc9511_68747470733a2f2f692e.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Express Typescript Skeleton",
+          "description": "**🔰🦸 Production-ready template for backends created with Node.js, Typescript and Express.**\n\nThe main goal of this project is to provide a base template for the generation of a production-ready REST API made with Node.js, Express and Typescript. The idea is to avoid having to configure all the tools involved in a project every time it is started and thus be able to focus on the definition and implementation of the business logic.\n\n> 📣 This is an opinionated template. The architecture of the code base and the configuration of the different tools used has been based on best practices and personal preferences.",
+          "URL": "https://github.com/borjapazr/express-typescript-skeleton",
+          "image": {
+            "alt": "68747470733a2f2f692e696d6775722e636f6d2f62706e676875492e706e67.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/e894b9b7-8364-409e-bc8b-9bb60e435202_68747470733a2f2f692e.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-06-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeORM",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Mars Server",
+          "description": "**🏡🖥️ Managed home server with Docker, Docker Compose, Make and Bash.**",
+          "URL": "https://github.com/borjapazr/mars-server"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-12-01",
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Makefile",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": ".dotfiles",
+          "description": "**💻🚀 Custom dotfiles for UNIX based systems.**\n\nPersonal .dotfiles for quick configuration of my UNIX-based devices. They are tailored to my needs and do not claim to be the right solution for ideal .dotfiles.\n\n> 💡 As a starting point to get all your configuration files and scripts organised I recommend you to use dotly, which is a project that describes itself as a simple and fast dotfiles framework.",
+          "URL": "https://github.com/borjapazr/dotfiles",
+          "image": {
+            "alt": "68747470733a2f2f692e696d6775722e636f6d2f537a42655668422e706e67.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/98781195-77a0-441a-9c19-3e412cf907fa_68747470733a2f2f692e.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-03-01",
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Makefile",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Epigraphica 3.0",
+          "description": "",
+          "URL": "https://epigraphica30.com"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-01-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Skape Squad",
+          "description": "",
+          "URL": "https://skapesquad.com"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-01-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Galician",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bamboo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gatsby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Less CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gulp.JS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SOAP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sonar",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SonarQube",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SoapUI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "D3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Arduino",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MQTT",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Latex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SVN",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ChartJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring-Batch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cassandra",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CouchDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Serverless",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NgRx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS EC2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DB2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/borjapazr"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/6112286/mr-mars"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "ChartJS",
+          "type": "technology"
+        },
+        {
+          "name": "CouchDB",
+          "type": "technology"
+        },
+        {
+          "name": "Couchbase",
+          "type": "technology"
+        },
+        {
+          "name": "Cypress",
+          "type": "technology"
+        },
+        {
+          "name": "Deno",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "Golang",
+          "type": "technology"
+        },
+        {
+          "name": "Helm",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "Koa",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "MariaDB",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Nest",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Playwright",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "RabbitMQ",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
+          "type": "technology"
+        },
+        {
+          "name": "Swagger",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Webflux",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer",
+        "Software Architect",
+        "Tech Lead"
+      ]
+    },
+    "status": "notAvailable"
+  }
+}
