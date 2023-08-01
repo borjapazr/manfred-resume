@@ -1035,6 +1035,14 @@
         "type": "technology"
       },
       {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
         "name": "HTML",
         "type": "technology"
       },
