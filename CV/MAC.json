@@ -454,6 +454,12 @@
       },
       {
         "skill": {
+          "name": "Angular Universal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Angular2+",
           "type": "technology"
         }
@@ -1030,6 +1036,10 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
       {
         "name": "JAVA",
         "type": "technology"
