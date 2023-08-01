@@ -23,7 +23,8 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://bpaz.dev"
+        "URL": "https://bpaz.dev",
+        "description": "Personal Site"
       }
     ]
   },
@@ -835,11 +836,11 @@
         },
         {
           "URL": "https://github.com/borjapazr",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/borjapazr",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
