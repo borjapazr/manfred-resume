@@ -1035,6 +1035,10 @@
         "type": "technology"
       },
       {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
         "name": "Spring Boot",
         "type": "technology"
       }
