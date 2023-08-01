@@ -1037,19 +1037,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Angular2+",
-        "type": "technology"
-      },
-      {
         "name": "JAVA",
         "type": "technology"
       },
       {
         "name": "JavaScript",
-        "type": "technology"
-      },
-      {
-        "name": "Spring Boot",
         "type": "technology"
       }
     ],
