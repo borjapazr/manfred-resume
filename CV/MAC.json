@@ -616,6 +616,12 @@
       },
       {
         "skill": {
+          "name": "Hooks",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
