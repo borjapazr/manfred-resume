@@ -934,6 +934,26 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Redis for JavaScript Developers",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Redis",
+          "URL": "https://university.redis.com/certificates/9817c18eaf9e40bfa30e721884a89b73",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/01/03e710be-7064-43b7-a812-e467697ee855_redis_logo_icon_1697.png",
+            "alt": "redis_logo_icon_169795.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Redis",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "Scrum Master",
         "startDate": "2019-07-01",
