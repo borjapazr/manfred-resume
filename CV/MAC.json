@@ -754,6 +754,12 @@
       },
       {
         "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Redis",
           "type": "technology"
         }
