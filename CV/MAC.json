@@ -778,6 +778,12 @@
       },
       {
         "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SVN",
           "type": "technology"
         }
