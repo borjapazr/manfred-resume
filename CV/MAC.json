@@ -580,6 +580,12 @@
       },
       {
         "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Github",
           "type": "technology"
         }
