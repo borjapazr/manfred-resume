@@ -847,6 +847,12 @@
           "name": "Visual Studio Code",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
+          "type": "technology"
+        }
       }
     ],
     "softSkills": [
