@@ -274,6 +274,41 @@
       },
       {
         "details": {
+          "name": "Skape Squad",
+          "URL": "https://skapesquad.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/3048621e-8bd0-4cd1-b331-a554d80b5b8e_logo.png",
+            "alt": "logo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-01-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": ".dotfiles",
           "description": "**💻🚀 Custom dotfiles for UNIX based systems.**\n\nPersonal .dotfiles for quick configuration of my UNIX-based devices. They are tailored to my needs and do not claim to be the right solution for ideal .dotfiles.\n\n> 💡 As a starting point to get all your configuration files and scripts organised I recommend you to use dotly, which is a project that describes itself as a simple and fast dotfiles framework.",
           "URL": "https://github.com/borjapazr/dotfiles",
@@ -378,37 +413,6 @@
               },
               {
                 "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Skape Squad",
-          "URL": "https://skapesquad.com"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-01-01",
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
                 "type": "technology"
               }
             ]
