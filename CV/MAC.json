@@ -1565,6 +1565,10 @@
           "type": "technology"
         },
         {
+          "name": "Spring-Batch",
+          "type": "technology"
+        },
+        {
           "name": "Swagger",
           "type": "technology"
         },
