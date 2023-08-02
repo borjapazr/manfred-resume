@@ -864,6 +864,12 @@
       },
       {
         "skill": {
+          "name": "OpenApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "OpenShift",
           "type": "technology"
         }
