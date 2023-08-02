@@ -588,6 +588,12 @@
       },
       {
         "skill": {
+          "name": "Artifactory",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Azure",
           "type": "technology"
         }
