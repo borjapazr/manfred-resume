@@ -53,11 +53,27 @@
                 "type": "technology"
               },
               {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS EC2",
+                "type": "technology"
+              },
+              {
                 "name": "ActiveMQ",
                 "type": "technology"
               },
               {
                 "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Azure Functions",
                 "type": "technology"
               },
               {
@@ -82,6 +98,10 @@
               },
               {
                 "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "DBeaver",
                 "type": "technology"
               },
               {
@@ -122,6 +142,10 @@
               },
               {
                 "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Jetbrains",
                 "type": "technology"
               },
               {
@@ -193,6 +217,10 @@
                 "type": "technology"
               },
               {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
                 "name": "Serverless",
                 "type": "technology"
               },
@@ -230,6 +258,10 @@
               },
               {
                 "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
                 "type": "technology"
               },
               {
