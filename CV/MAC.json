@@ -346,7 +346,7 @@
       {
         "details": {
           "name": ".dotfiles",
-          "description": "**💻🚀 Custom dotfiles for UNIX based systems.**\n\nPersonal .dotfiles for quick configuration of my UNIX-based devices. They are tailored to my needs and do not claim to be the right solution for ideal .dotfiles.\n\n> 💡 As a starting point to get all your configuration files and scripts organised I recommend you to use dotly, which is a project that describes itself as a simple and fast dotfiles framework.",
+          "description": "**💻🚀 Custom dotfiles for UNIX based systems.**\n\nPersonal .dotfiles for quick configuration of my UNIX-based devices. They are tailored to my needs and do not claim to be the right solution for ideal .dotfiles.\n\n💡 *As a starting point to get all your configuration files and scripts organised I recommend you to use dotly, which is a project that describes itself as a simple and fast dotfiles framework.*",
           "URL": "https://github.com/borjapazr/dotfiles",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/98781195-77a0-441a-9c19-3e412cf907fa_68747470733a2f2f692e.png",
@@ -365,6 +365,10 @@
               },
               {
                 "name": "Makefile",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
                 "type": "technology"
               }
             ]
