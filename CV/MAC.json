@@ -1501,10 +1501,6 @@
           "type": "technology"
         },
         {
-          "name": "Golang",
-          "type": "technology"
-        },
-        {
           "name": "Helm",
           "type": "technology"
         },
