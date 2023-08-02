@@ -726,6 +726,12 @@
       },
       {
         "skill": {
+          "name": "Google Maps",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Grafana",
           "type": "technology"
         }
