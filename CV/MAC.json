@@ -660,6 +660,12 @@
       },
       {
         "skill": {
+          "name": "Cucumber",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Cypress",
           "type": "technology"
         }
@@ -955,6 +961,12 @@
       {
         "skill": {
           "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Playwright",
           "type": "technology"
         }
       },
