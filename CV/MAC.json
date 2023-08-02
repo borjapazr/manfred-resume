@@ -660,6 +660,12 @@
       },
       {
         "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "D3",
           "type": "technology"
         }
@@ -883,6 +889,12 @@
       {
         "skill": {
           "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mockito",
           "type": "technology"
         }
       },
