@@ -852,6 +852,12 @@
       },
       {
         "skill": {
+          "name": "Karate",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Kubernetes",
           "type": "technology"
         }
