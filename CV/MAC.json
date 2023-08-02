@@ -418,7 +418,11 @@
       {
         "details": {
           "name": "Epigraphica 3.0",
-          "URL": "https://epigraphica30.com"
+          "URL": "https://epigraphica30.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/9cf0cb39-75ea-467b-a795-274412fd057d_main-logo.png",
+            "alt": "main-logo.png"
+          }
         },
         "type": "sideProject",
         "roles": [
