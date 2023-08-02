@@ -1473,10 +1473,6 @@
           "type": "technology"
         },
         {
-          "name": "CouchDB",
-          "type": "technology"
-        },
-        {
           "name": "Couchbase",
           "type": "technology"
         },
@@ -1498,10 +1494,6 @@
         },
         {
           "name": "Github",
-          "type": "technology"
-        },
-        {
-          "name": "Helm",
           "type": "technology"
         },
         {
