@@ -774,6 +774,12 @@
       },
       {
         "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Lambda",
           "type": "technology"
         }
