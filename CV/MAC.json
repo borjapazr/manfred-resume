@@ -331,7 +331,7 @@
       {
         "details": {
           "name": "Express Typescript Skeleton",
-          "description": "**🔰🦸 Production-ready template for backends created with Node.js, Typescript and Express.**\n\nThe main goal of this project is to provide a base template for the generation of a production-ready REST API made with Node.js, Express and Typescript. The idea is to avoid having to configure all the tools involved in a project every time it is started and thus be able to focus on the definition and implementation of the business logic.\n\n> 📣 This is an opinionated template. The architecture of the code base and the configuration of the different tools used has been based on best practices and personal preferences.",
+          "description": "**🔰🦸 Production-ready template for backends created with Node.js, Typescript and Express.**\n\nThe main goal of this project is to provide a base template for the generation of a production-ready REST API made with Node.js, Express and Typescript. The idea is to avoid having to configure all the tools involved in a project every time it is started and thus be able to focus on the definition and implementation of the business logic.\n\n📣 This is an opinionated template. The architecture of the code base and the configuration of the different tools used have been based on best practices and personal preferences.",
           "URL": "https://github.com/borjapazr/express-typescript-skeleton",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/e894b9b7-8364-409e-bc8b-9bb60e435202_68747470733a2f2f692e.png",
@@ -353,7 +353,23 @@
                 "type": "technology"
               },
               {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
                 "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
                 "type": "technology"
               },
               {
