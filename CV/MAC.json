@@ -1141,8 +1141,8 @@
         "startDate": "2011-09-01",
         "institution": {
           "name": "Universidade de Vigo",
-          "description": "During my academic stage, I was able to taste many disciplines related to telecommunications, programming, problem-solving, project management, research, etc. At the same time, I was able to develop my personality, my character and my knowledge.\n\nThe subjects taken allowed me to acquire new knowledge related to:\n- Wireless and mobile networks: WiFi, ad hoc networks, routing, network topologies, etc.\n- Intelligent systems programming: Distributed artificial intelligence and multi-agent systems, agent-oriented programming and methodologies, etc.\n- Embedded systems design: Android, BeagleBoneBlack, Linux, real-time constrained operating systems, etc.\n- Operating systems and information systems\n- Network architecture and technology, multimedia networks, network theory and switching.\n- Security\n- Concurrent and distributed programming, telematic services architecture, etc.",
-          "URL": "https://teleco.uvigo.es/",
+          "description": "During my academic stage, I was able to taste many disciplines related to **telecommunications**, **programming**, **problem-solving**, **project management**, **research**, etc. At the same time, I was able to develop my personality, my character and my knowledge.\n\nThe subjects taken allowed me to acquire new knowledge related to:\n\n- Wireless and mobile networks: WiFi, ad hoc networks, routing, network topologies, etc.\n- Intelligent systems programming: Distributed artificial intelligence and multi-agent systems, agent-oriented programming and methodologies, etc.\n- Embedded systems design: Android, BeagleBoneBlack, Linux, real-time constrained operating systems, etc.\n- Operating systems and information systems\n- Network architecture and technology, multimedia networks, network theory and switching.\n- Security\n- Concurrent and distributed programming, telematic services architecture, etc.",
+          "URL": "https://teleco.uvigo.es",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/01/efa383ca-0ad1-48e2-80b4-2b9be024ffb8_uoegymf1_400x400.jpg",
             "alt": "uOegyMf1_400x400.jpg"
@@ -1171,6 +1171,10 @@
             "type": "technology"
           },
           {
+            "name": "JUnit",
+            "type": "technology"
+          },
+          {
             "name": "JavaScript",
             "type": "technology"
           },
@@ -1179,7 +1183,15 @@
             "type": "technology"
           },
           {
+            "name": "Mockito",
+            "type": "technology"
+          },
+          {
             "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Mongoose",
             "type": "technology"
           },
           {
@@ -1207,7 +1219,23 @@
         },
         "linkedCompetences": [
           {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
             "name": "Redis",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
             "type": "technology"
           }
         ]
