@@ -762,6 +762,12 @@
       },
       {
         "skill": {
+          "name": "Gradle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Grafana",
           "type": "technology"
         }
@@ -865,6 +871,12 @@
       {
         "skill": {
           "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
           "type": "technology"
         }
       },
