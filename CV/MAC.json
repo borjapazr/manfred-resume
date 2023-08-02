@@ -552,6 +552,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
           "type": "technology"
         }
