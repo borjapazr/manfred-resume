@@ -636,6 +636,12 @@
       },
       {
         "skill": {
+          "name": "Cisco",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Confluence",
           "type": "technology"
         }
