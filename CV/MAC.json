@@ -331,7 +331,7 @@
       {
         "details": {
           "name": "Mars Server",
-          "description": "**🏡🖥️ Managed home server with Docker, Docker Compose, Make and Bash.**",
+          "description": "**🏡🖥️ Managed home server with Docker, Docker Compose, Make and Bash.**\n\n*Mars Server* is an open-source project that provides a solution for efficiently managing home servers. Using technologies like **Docker**, **Docker Compose**, **Make**, and **Bash**, it allows users to create and maintain applications and services in containers, enabling the independent and secure deployment of multiple applications on a server. With this combination of technologies and tools, users can easily configure their servers and make the most of their resources.",
           "URL": "https://github.com/borjapazr/mars-server",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/52e01759-8c81-4a02-ab87-876be75877f1_image.jpg",
