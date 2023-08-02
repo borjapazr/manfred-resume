@@ -738,6 +738,12 @@
       },
       {
         "skill": {
+          "name": "Google Sheets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Grafana",
           "type": "technology"
         }
