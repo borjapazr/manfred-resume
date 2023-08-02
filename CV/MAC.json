@@ -750,6 +750,12 @@
       },
       {
         "skill": {
+          "name": "Jetbrains",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Kafka",
           "type": "technology"
         }
