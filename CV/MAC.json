@@ -1577,6 +1577,10 @@
           "type": "technology"
         },
         {
+          "name": "SonarQube",
+          "type": "technology"
+        },
+        {
           "name": "Spring",
           "type": "technology"
         },
