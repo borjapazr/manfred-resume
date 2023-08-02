@@ -278,8 +278,8 @@
           "description": "**🏡🖥️ Managed home server with Docker, Docker Compose, Make and Bash.**",
           "URL": "https://github.com/borjapazr/mars-server",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/534753f1-1663-44af-848d-09ef54a899f2_mars-server-(1).svg",
-            "alt": "mars-server (1).svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/52e01759-8c81-4a02-ab87-876be75877f1_image.jpg",
+            "alt": "image.jpg"
           }
         },
         "type": "sideProject",
