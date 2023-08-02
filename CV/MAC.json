@@ -732,6 +732,12 @@
       },
       {
         "skill": {
+          "name": "Google Search Console",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Grafana",
           "type": "technology"
         }
