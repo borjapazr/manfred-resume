@@ -720,6 +720,12 @@
       },
       {
         "skill": {
+          "name": "Google Apps Script",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Grafana",
           "type": "technology"
         }
