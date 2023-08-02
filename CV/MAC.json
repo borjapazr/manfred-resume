@@ -438,6 +438,7 @@
       {
         "details": {
           "name": "Epigraphica 3.0",
+          "description": "**Epigraphica 3.0**: *Hacia la creación y diseño de un corpus digital de inscripciones romanas de la provincia de Ourense” (ED481D2017/013).*\n\nA research project funded by the Consellería de Cultura, Educación e Ordenación Universitaria of the Xunta de Galicia, in collaboration with the Universidade de Santiago de Compostela, the Consello da Cultura Galega, and the Epigraphic Archive of Hispania. Directed by David Espinosa Espinosa (PhD in Ancient History) and developed by an interdisciplinary research team composed of Miguel Carrero Pazos (PhD in Prehistory) and Borja Paz Rodríguez (Telecommunication Technologies Engineer).\n\nThe main objective of Epigraphica 3.0 is to create a multilingual, online, and open-access epigraphic corpus through the development of a relational database and the implementation of a cartographic viewer and a 3D model viewer. The area under study is the province of Ourense, a territory that, together with Pontevedra, documents the highest number of Roman inscriptions in Galicia, making it a region of great interest for the study of the social, political, economic, and cultural aspects of the Roman presence in the northwest of Hispania. Due to time constraints, milestone markers (miliarios) have been excluded from this corpus. Additionally, a large amount of inscription information is unavailable for reasons unrelated to Epigraphica 3.0.\n\nTechnologically, Epigraphica 3.0 was developed using a stack with the following technologies/frameworks:\n\n- The information is persisted in a relational database, **MariaDB**.\n- A REST API is used as the data retrieval interface, created with **Node.js + Express**.\n- **Angular** is the chosen framework for creating the web application (PWA, SSR, SEO, lazy loading of images, Google Maps, optimized following Google Lighthouse, etc.).\n- The application is containerized and deployed using Docker.",
           "URL": "https://epigraphica30.com",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/9cf0cb39-75ea-467b-a795-274412fd057d_main-logo.png",
@@ -456,6 +457,14 @@
               },
               {
                 "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Search Console",
                 "type": "technology"
               },
               {
