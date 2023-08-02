@@ -1461,6 +1461,10 @@
           "type": "technology"
         },
         {
+          "name": "Angular Universal",
+          "type": "technology"
+        },
+        {
           "name": "Angular2+",
           "type": "technology"
         },
@@ -1502,6 +1506,10 @@
         },
         {
           "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JUnit",
           "type": "technology"
         },
         {
