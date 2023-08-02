@@ -756,6 +756,12 @@
       },
       {
         "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Kafka",
           "type": "technology"
         }
