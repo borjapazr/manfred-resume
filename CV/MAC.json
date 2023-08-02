@@ -198,6 +198,62 @@
     "projects": [
       {
         "details": {
+          "name": "Skape Squad",
+          "description": "**Skape Squad** gives a name to a group of four friends who decide to embark on a new adventure related to escape rooms, simply for hobby and fun. As stated in our Instagram profile ([@skapesquad](https://www.instagram.com/skapesquad)), \"We are millennials who love Escape Rooms.\"\n\nSkape Squad comes to life as a website/blog that aims to provide information and reviews about the escape rooms we play all over Spain. But it's not just a website; it represents a shared feeling of curiosity, restlessness, and a desire to travel.\n\nTechnologically, the Skape Squad application was developed using a stack with the following technologies/frameworks:\n\n- Information is persisted in a non-relational database, **MongoDB**.\n- A **REST API** is used as the data retrieval interface, created with **Node.js + Express**.\n- **Angular** is the chosen framework for creating the web application (**PWA**, **SSR**, **SEO**, lazy loading of images, **Google Maps**, optimized following **Google Lighthouse recommendations**, etc.).\n- The application is containerized and deployed using **Docker**.",
+          "URL": "https://skapesquad.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/c14ed813-1ba6-4716-84aa-9175fa0b1172_logo.png",
+            "alt": "logo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-01-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Apps Script",
+                "type": "technology"
+              },
+              {
+                "name": "Google Search Console",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Angular Skeleton",
           "description": "**🅰️🦸 Production-ready template for Progressive Web Applications implemented with Angular, TailwindCSS, Transloco, ngx-isr, etc.**\n\nThe main goal of this project is to provide a base template for the generation of a production-ready web application made with Angular. The idea is to avoid having to configure all the tools involved in a project every time it is started and thus be able to focus on the definition and implementation of the business logic.\n\n📣 *This is an opinionated template. The architecture of the code base and the configuration of the different tools used have been based on best practices and personal preferences.*",
           "URL": "https://github.com/borjapazr/angular-skeleton",
@@ -302,41 +358,6 @@
               },
               {
                 "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Skape Squad",
-          "URL": "https://skapesquad.com",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/c14ed813-1ba6-4716-84aa-9175fa0b1172_logo.png",
-            "alt": "logo.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-01-01",
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
                 "type": "technology"
               }
             ]
