@@ -198,6 +198,82 @@
     "projects": [
       {
         "details": {
+          "name": "Angular Skeleton",
+          "description": "**🅰️🦸 Production-ready template for Progressive Web Applications implemented with Angular, TailwindCSS, Transloco, ngx-isr, etc.**\n\nThe main goal of this project is to provide a base template for the generation of a production-ready web application made with Angular. The idea is to avoid having to configure all the tools involved in a project every time it is started and thus be able to focus on the definition and implementation of the business logic.\n\n📣 *This is an opinionated template. The architecture of the code base and the configuration of the different tools used have been based on best practices and personal preferences.*",
+          "URL": "https://github.com/borjapazr/angular-skeleton",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/fb3829c2-08b3-4fe0-9df9-b7d3cffc9511_68747470733a2f2f692e.png",
+            "alt": "68747470733a2f2f692e696d6775722e636f6d2f7973614d5678462e706e67.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PM2",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Ubuntu",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": ".dotfiles",
           "description": "**💻🚀 Custom dotfiles for UNIX based systems.**\n\nPersonal .dotfiles for quick configuration of my UNIX-based devices. They are tailored to my needs and do not claim to be the right solution for ideal .dotfiles.\n\n> 💡 As a starting point to get all your configuration files and scripts organised I recommend you to use dotly, which is a project that describes itself as a simple and fast dotfiles framework.",
           "URL": "https://github.com/borjapazr/dotfiles",
@@ -246,50 +322,6 @@
               },
               {
                 "name": "Makefile",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Angular Skeleton",
-          "description": "**🅰️🦸 Production-ready template for Progressive Web Applications implemented with Angular, TailwindCSS, Transloco, ngx-isr, etc.**\n\nThe main goal of this project is to provide a base template for the generation of a production-ready web application made with Angular. The idea is to avoid having to configure all the tools involved in a project every time it is started and thus be able to focus on the definition and implementation of the business logic.\n\n> 📣 This is an opinionated template. The architecture of the code base and the configuration of the different tools used has been based on best practices and personal preferences.",
-          "URL": "https://github.com/borjapazr/angular-skeleton",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/fb3829c2-08b3-4fe0-9df9-b7d3cffc9511_68747470733a2f2f692e.png",
-            "alt": "68747470733a2f2f692e696d6775722e636f6d2f7973614d5678462e706e67.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-01-01",
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Cypress",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "Tailwind",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
                 "type": "technology"
               }
             ]
