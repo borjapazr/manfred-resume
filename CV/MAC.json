@@ -299,6 +299,10 @@
               {
                 "name": "Makefile",
                 "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
               }
             ]
           }
