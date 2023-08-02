@@ -1537,6 +1537,10 @@
           "type": "technology"
         },
         {
+          "name": "Mockito",
+          "type": "technology"
+        },
+        {
           "name": "MongoDB",
           "type": "technology"
         },
@@ -1566,6 +1570,10 @@
         },
         {
           "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Sonar",
           "type": "technology"
         },
         {
