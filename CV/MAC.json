@@ -296,7 +296,7 @@
             "finishDate": "2016-09-01",
             "challenges": [
               {
-                "description": "• Development and implementation of **network analysis and QoS estimation application for GNU/Linux platforms**. Technologies used include Python, Qt, Linux, and various network tools.\n\n• Implementation of a **web-based configurator and graphical composer for managing and visualizing large amounts of data**. The project involves multiple advanced charting libraries in JavaScript, HTML5, CSS3, jQuery, MongoDB, NodeJS, and Jade.\n\n• Providing support and assistance in other projects, including REST APIs, developing Android applications using Android Studio, and working with technologies like HTML5, CSS3, jQuery, Linux, and networking.\n\n**Skills**: Linux · Node.js · D3.js · Python · MongoDB · Android."
+                "description": "• Development and implementation of **network analysis and QoS estimation application for GNU/Linux platforms**. Technologies used include Python, Qt, Linux, and various network tools.\n\n• Implementation of a **web-based configurator and graphical composer for managing and visualizing large amounts of data**. The project involves multiple advanced charting libraries in JavaScript, HTML5, CSS3, jQuery, MongoDB, NodeJS, and Jade.\n\n• **Support and assistance in other projects**, including REST APIs, developing Android applications using Android Studio, and working with technologies like HTML5, CSS3, jQuery, Linux, and networking.\n\n**Skills**: Linux · Node.js · D3.js · Python · MongoDB · Android."
               }
             ],
             "competences": [
