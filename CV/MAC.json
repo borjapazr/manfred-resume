@@ -714,6 +714,12 @@
       },
       {
         "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Grafana",
           "type": "technology"
         }
