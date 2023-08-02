@@ -1385,18 +1385,18 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Scrum Master",
         "startDate": "2019-07-01",
         "institution": {
           "name": "Scrum Manager",
+          "description": "✔ **Técnico Scrum Manager**",
           "URL": "https://scrummanager.com/website/c/profile/member.php?id=27053",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/e0d67a5a-7cf1-479b-822a-196c2d94c0b1_square-c-transformed.png",
             "alt": "square-c-transformed.png"
           }
-        },
-        "finishDate": "2024-07-01"
+        }
       }
     ],
     "softSkills": [
