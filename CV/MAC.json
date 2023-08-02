@@ -65,6 +65,14 @@
                 "type": "technology"
               },
               {
+                "name": "Angular Universal",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
                 "name": "Ansible",
                 "type": "technology"
               },
