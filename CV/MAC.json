@@ -1505,6 +1505,10 @@
           "type": "technology"
         },
         {
+          "name": "Github Actions",
+          "type": "technology"
+        },
+        {
           "name": "JAVA",
           "type": "technology"
         },
