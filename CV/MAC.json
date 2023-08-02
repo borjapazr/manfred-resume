@@ -274,6 +274,38 @@
       },
       {
         "details": {
+          "name": "Mars Server",
+          "description": "**🏡🖥️ Managed home server with Docker, Docker Compose, Make and Bash.**",
+          "URL": "https://github.com/borjapazr/mars-server",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/1bbde822-1764-4579-a79c-c3e2663ba195_mars-server.svg",
+            "alt": "mars-server.svg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-12-01",
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Makefile",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Skape Squad",
           "URL": "https://skapesquad.com",
           "image": {
@@ -325,34 +357,6 @@
             "competences": [
               {
                 "name": "Bash",
-                "type": "technology"
-              },
-              {
-                "name": "Makefile",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Mars Server",
-          "description": "**🏡🖥️ Managed home server with Docker, Docker Compose, Make and Bash.**",
-          "URL": "https://github.com/borjapazr/mars-server"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2020-12-01",
-            "competences": [
-              {
-                "name": "Bash",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
                 "type": "technology"
               },
               {
