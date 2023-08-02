@@ -660,6 +660,12 @@
       },
       {
         "skill": {
+          "name": "DNS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
           "type": "technology"
         }
