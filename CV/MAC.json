@@ -630,6 +630,12 @@
       },
       {
         "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CouchDB",
           "type": "technology"
         }
@@ -883,6 +889,12 @@
       {
         "skill": {
           "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redmine",
           "type": "technology"
         }
       },
