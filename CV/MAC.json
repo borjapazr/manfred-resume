@@ -834,6 +834,12 @@
       },
       {
         "skill": {
+          "name": "Nexus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NgRx",
           "type": "technology"
         }
