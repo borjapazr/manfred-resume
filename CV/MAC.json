@@ -1561,6 +1561,10 @@
           "type": "technology"
         },
         {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
           "name": "Swagger",
           "type": "technology"
         },
