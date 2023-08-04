@@ -1000,6 +1000,12 @@
       },
       {
         "skill": {
+          "name": "Koa",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Kubernetes",
           "type": "technology"
         }
