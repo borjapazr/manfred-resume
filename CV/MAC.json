@@ -850,6 +850,12 @@
       },
       {
         "skill": {
+          "name": "Fastify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Gatsby",
           "type": "technology"
         }
