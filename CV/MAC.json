@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,8 +11,8 @@
       "title": "Software Engineer",
       "description": "Hello 👋! **I'm Borja**, a simple teleco passionate about programming, gadgets, technology, networks, **escape rooms**... Yes, yes! Escape rooms 🔐, you heard right. Thanks to this hobby, which gave me as many headaches as unique moments, I strengthened all the knowledge 🧠 I acquired during my academic stage and discovered many more things that today turn around in my head 💭. It all started with a damn website 💻! From that moment on, my interest grew even more within me. **How to do something in the best possible way? What is the most appropriate technology? Will I be following the best practices? Would Uncle Bob be proud of me? 🧐**\n\nMy concerns about knowing are focused on **good practices** ✅, **design patterns** 🪄, **the application of new architectures** 🏗️ (*Clean Architecture, Hexagonal Architecture, etc.*), **process automation** 🔀, **CI/CD** 🧩, **performance improvement** ⚡️, process optimization 🔬, learning new programming languages and skills 🤓, **monitoring** 👀, **problem-solving** 🧮, **use of DDD** 🎯, etc. I would not be able to choose a specific technology. During my professional stage, I have been changing and combining many branches, which is gratifying and serves as an exercise in **adapting to change** 🤹‍♀️. Despite this, I hold a special affection for technologies such as **Java** ☕️, **Spring** 🌱, **Spring Boot** 🍃, **JavaScript** 💛, **TypeScript** 💙, **Angular** 🅰️, **React.js** ⚛️, **Next.js** 🖤, **Node.js** 💚, **Python** 🐍, **Docker** 🐳, etc. I also usually entertain myself quite a bit by doing tasks typical of **DevOps**, always looking for the simplest and most practical way to do things.\n\nI am passionate about being able to **dedicate time to small personal projects** 🧑‍💻 that can be useful to others with the same concerns as me. For example, practical dotfiles to make the configuration and customization of GNU/Linux-based operating systems easier 📑, **a mini tool to manage and configure home servers** using *Docker*, *Docker Compose*, *Make* and *FZF* 🕹️ or **a REST API template with Node.js and TypeScript following best practices** 🔰.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/03/cdd4dffb-e828-4500-b92b-928d3ce77ece_profile_bw_2.png",
-        "alt": "profile_bw_2.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/04/14/67b4d38b-5a18-476f-80e9-004cf0943154_profile_bw_ai.png",
+        "alt": "profile_bw_ai.png"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJaxUIiYZ8Lg0RQpaMEzB5rOE)",
@@ -21,6 +21,22 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/borjapazr"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/borjapazr"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/borjapazr"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/6112286/mr-mars"
+      },
       {
         "type": "other",
         "URL": "https://bpaz.dev"
@@ -58,6 +74,10 @@
               },
               {
                 "name": "AWS EC2",
+                "type": "technology"
+              },
+              {
+                "name": "AWS Lambda",
                 "type": "technology"
               },
               {
@@ -133,15 +153,15 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "JUnit",
                 "type": "technology"
               },
               {
                 "name": "Jamstack",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -162,10 +182,6 @@
               },
               {
                 "name": "Kong",
-                "type": "technology"
-              },
-              {
-                "name": "Lambda",
                 "type": "technology"
               },
               {
@@ -230,10 +246,6 @@
               },
               {
                 "name": "Serverless",
-                "type": "technology"
-              },
-              {
-                "name": "Sonar",
                 "type": "technology"
               },
               {
@@ -321,7 +333,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -338,62 +350,6 @@
       }
     ],
     "projects": [
-      {
-        "details": {
-          "name": "Skape Squad",
-          "description": "**Skape Squad** gives a name to a group of four friends who decide to embark on a new adventure related to escape rooms, simply for hobby and fun. As stated in our Instagram profile ([@skapesquad](https://www.instagram.com/skapesquad)), \"We are millennials who love Escape Rooms.\"\n\nSkape Squad comes to life as a website/blog that aims to provide information and reviews about the escape rooms we play all over Spain. But it's not just a website; it represents a shared feeling of curiosity, restlessness, and a desire to travel.\n\nTechnologically, the Skape Squad application was developed using a stack with the following technologies/frameworks:\n\n- Information is persisted in a non-relational database, **MongoDB**.\n- A **REST API** is used as the data retrieval interface, created with **Node.js + Express**.\n- **Angular** is the chosen framework for creating the web application (**PWA**, **SSR**, **SEO**, lazy loading of images, **Google Maps**, optimized following **Google Lighthouse** recommendations, etc.).\n- The application is containerized and deployed using **Docker**.",
-          "URL": "https://skapesquad.com",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/c14ed813-1ba6-4716-84aa-9175fa0b1172_logo.png",
-            "alt": "logo.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-01-01",
-            "competences": [
-              {
-                "name": "API",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Google Apps Script",
-                "type": "technology"
-              },
-              {
-                "name": "Google Search Console",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
       {
         "details": {
           "name": "Angular Skeleton",
@@ -472,6 +428,66 @@
       },
       {
         "details": {
+          "name": "Express Typescript Skeleton",
+          "description": "**🔰🦸 Production-ready template for backends created with Node.js, Typescript and Express.**\n\nThe main goal of this project is to provide a base template for the generation of a production-ready REST API made with Node.js, Express and Typescript. The idea is to avoid having to configure all the tools involved in a project every time it is started and thus be able to focus on the definition and implementation of the business logic.\n\n📣 *This is an opinionated template. The architecture of the code base and the configuration of the different tools used have been based on best practices and personal preferences.*",
+          "URL": "https://github.com/borjapazr/express-typescript-skeleton",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/e894b9b7-8364-409e-bc8b-9bb60e435202_68747470733a2f2f692e.png",
+            "alt": "68747470733a2f2f692e696d6775722e636f6d2f62706e676875492e706e67.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-06-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "TypeORM",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Mars Server",
           "description": "**🏡🖥️ Managed home server with Docker, Docker Compose, Make and Bash.**\n\n*Mars Server* is an open-source project that provides a solution for efficiently managing home servers. Using technologies like **Docker**, **Docker Compose**, **Make**, and **Bash**, it allows users to create and maintain applications and services in containers, enabling the independent and secure deployment of multiple applications on a server. With this combination of technologies and tools, users can easily configure their servers and make the most of their resources.",
           "URL": "https://github.com/borjapazr/mars-server",
@@ -540,66 +556,6 @@
       },
       {
         "details": {
-          "name": "Express Typescript Skeleton",
-          "description": "**🔰🦸 Production-ready template for backends created with Node.js, Typescript and Express.**\n\nThe main goal of this project is to provide a base template for the generation of a production-ready REST API made with Node.js, Express and Typescript. The idea is to avoid having to configure all the tools involved in a project every time it is started and thus be able to focus on the definition and implementation of the business logic.\n\n📣 *This is an opinionated template. The architecture of the code base and the configuration of the different tools used have been based on best practices and personal preferences.*",
-          "URL": "https://github.com/borjapazr/express-typescript-skeleton",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/e894b9b7-8364-409e-bc8b-9bb60e435202_68747470733a2f2f692e.png",
-            "alt": "68747470733a2f2f692e696d6775722e636f6d2f62706e676875492e706e67.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-06-01",
-            "competences": [
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Redis",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "TypeORM",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Epigraphica 3.0",
           "description": "**Epigraphica 3.0**: *Hacia la creación y diseño de un corpus digital de inscripciones romanas de la provincia de Ourense” (ED481D2017/013).*\n\nA research project funded by the Consellería de Cultura, Educación e Ordenación Universitaria of the Xunta de Galicia, in collaboration with the Universidade de Santiago de Compostela, the Consello da Cultura Galega, and the Epigraphic Archive of Hispania. Directed by David Espinosa Espinosa (PhD in Ancient History) and developed by an interdisciplinary research team composed of Miguel Carrero Pazos (PhD in Prehistory) and Borja Paz Rodríguez (Telecommunication Technologies Engineer).\n\nThe main objective of Epigraphica 3.0 is to create a multilingual, online, and open-access epigraphic corpus through the development of a relational database and the implementation of a cartographic viewer and a 3D model viewer. The area under study is the province of Ourense, a territory that, together with Pontevedra, documents the highest number of Roman inscriptions in Galicia, making it a region of great interest for the study of the social, political, economic, and cultural aspects of the Roman presence in the northwest of Hispania. Due to time constraints, milestone markers (miliarios) have been excluded from this corpus. Additionally, a large amount of inscription information is unavailable for reasons unrelated to Epigraphica 3.0.\n\nTechnologically, Epigraphica 3.0 was developed using a stack with the following technologies/frameworks:\n\n- The information is persisted in a relational database, **MariaDB**.\n- A REST API is used as the data retrieval interface, created with **Node.js + Express**.\n- **Angular** is the chosen framework for creating the web application (**PWA**, **SSR**, **SEO**, lazy loading of images, **Google Maps**, optimized following **Google Lighthouse**, etc.).\n- The application is containerized and deployed using **Docker**.",
           "URL": "https://epigraphica30.marsmachine.space",
@@ -628,6 +584,62 @@
               },
               {
                 "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Search Console",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Skape Squad",
+          "description": "**Skape Squad** gives a name to a group of four friends who decide to embark on a new adventure related to escape rooms, simply for hobby and fun. As stated in our Instagram profile ([@skapesquad](https://www.instagram.com/skapesquad)), \"We are millennials who love Escape Rooms.\"\n\nSkape Squad comes to life as a website/blog that aims to provide information and reviews about the escape rooms we play all over Spain. But it's not just a website; it represents a shared feeling of curiosity, restlessness, and a desire to travel.\n\nTechnologically, the Skape Squad application was developed using a stack with the following technologies/frameworks:\n\n- Information is persisted in a non-relational database, **MongoDB**.\n- A **REST API** is used as the data retrieval interface, created with **Node.js + Express**.\n- **Angular** is the chosen framework for creating the web application (**PWA**, **SSR**, **SEO**, lazy loading of images, **Google Maps**, optimized following **Google Lighthouse** recommendations, etc.).\n- The application is containerized and deployed using **Docker**.",
+          "URL": "https://skapesquad.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/c14ed813-1ba6-4716-84aa-9175fa0b1172_logo.png",
+            "alt": "logo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-01-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Apps Script",
                 "type": "technology"
               },
               {
@@ -680,14 +692,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -707,6 +722,12 @@
       {
         "skill": {
           "name": "AWS EC2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS Lambda",
           "type": "technology"
         }
       },
@@ -952,13 +973,13 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "JUnit",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JUnit",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -1013,12 +1034,6 @@
       {
         "skill": {
           "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Lambda",
           "type": "technology"
         }
       },
@@ -1228,12 +1243,6 @@
       },
       {
         "skill": {
-          "name": "Sonar",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "SonarQube",
           "type": "technology"
         }
@@ -1321,11 +1330,11 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "JUnit",
             "type": "technology"
           },
           {
-            "name": "JUnit",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -1454,12 +1463,6 @@
       ],
       "contactMails": [
         "borjapazr@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "616275036",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -1521,11 +1524,11 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "JUnit",
           "type": "technology"
         },
         {
-          "name": "JUnit",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -1597,10 +1600,6 @@
           "type": "technology"
         },
         {
-          "name": "Sonar",
-          "type": "technology"
-        },
-        {
           "name": "SonarQube",
           "type": "technology"
         },
@@ -1665,7 +1664,7 @@
         "type": "technology"
       },
       {
-        "name": "JAVA",
+        "name": "Java",
         "type": "technology"
       },
       {
