@@ -52,12 +52,17 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/22/9dc99fd6-575c-4b9e-aced-e54baf277287_inditex.png",
             "alt": "inditex.png"
           },
-          "URL": "https://www.inditex.com"
+          "URL": "https://inditex.com"
         },
         "roles": [
           {
             "name": "Software Engineer | Software Architect",
-            "startDate": "2026-05-01"
+            "startDate": "2026-05-01",
+            "challenges": [
+              {
+                "description": "• **Software Engineer** and **Software Architect** in the Financiero - Tech area at **Inditex**. I design and implement various solutions within the Inditex Open Platform (IOP) ecosystem.\n\n• **Member of the R&D department** at Plexus Tech.\n\n**Skills**: Continuous Integration and Continuous Delivery (CI/CD) · TypeScript · Microservices · GitHub · ESLint · React.js · Domain-Driven Design · Spring Boot · Java · JavaScript · Angular · Spring Framework · Docker · Node.js · D3.js · Apache Kafka · Grafana · Software Architecture · DevOps."
+              }
+            ]
           }
         ]
       },
