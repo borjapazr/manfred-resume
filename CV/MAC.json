@@ -47,6 +47,22 @@
     "jobs": [
       {
         "organization": {
+          "name": "Inditex",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/22/434c6905-7f1e-4d8f-b785-f801453fc363_logo_big.svg",
+            "alt": "logo_big.0nk5izeu-d548.svg"
+          },
+          "URL": "https://www.inditex.com"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer | Software Architect",
+            "startDate": "2026-05-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Plexus Tech",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/12/fa082cbb-310f-41a8-9fbf-cf55f9a794d3_logo_cropped.png",
